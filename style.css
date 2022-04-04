@@ -1,0 +1,37 @@
+body{
+   font-family: sans-serif;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-align: center;
+}
+
+
+#boxa{
+   padding: 30px;
+   width: 30%;
+   left: 30%;
+   top: 30%;
+    margin: 150px;
+   border:  3px solid pink;
+   background-color: royalblue;
+   border-radius: 11px;
+   position: absolute;
+
+} 
+#boxb{
+   border-radius: 11px;
+   border: 3px solid pink;
+   background-color: #ff0000;
+   padding:  30px;
+   
+
+}
+#boxc{
+   border-radius: 11px;
+   border: 3px solid purple;
+   background-color: #ff0000;
+   padding:  30px;
+   
+}
+  
